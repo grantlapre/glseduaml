@@ -63,14 +63,14 @@ P.S: If you've got any experiences or tips related to AML risk assessments or co
             am3,
         },
         {
-        title: "Algorithm",
+        title: "AAML Topic",
         body: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
         author: "Lawrie,CAMS,CAMS-Audit",
         blogImg:
             "https://media.geeksforgeeks.org/img-practice/banner/google-test-series-thumbnail.png",
         },
         {
-        title: "Computer Network",
+        title: "AML Topic",
         body: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
         author: "Lawrie,CAMS,CAMS-Audit",
         imgUrl:
