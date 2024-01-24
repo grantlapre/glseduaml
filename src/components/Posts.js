@@ -25,7 +25,7 @@ But how does one go about conducting an effective AML risk assessment? Here are 
 
 1. Geography Matters: An important component of financial crime risk assessment is understanding the geographical implications where business deals are conducted. It’s akin to checking the weather before planning a hike – you wouldn’t want to be caught off guard by unexpected storms!
 
-2. Regulatory Landscape: Is the country under assessment known for active connections with terrorism or proliferation? Has it implemented enough AFC measures? This can be compared to researching about your hiking trail – if it’s notorious for dangerous wildlife or treacherous terrains, extra precautions would be necessary.
+2. Regulatory Landscape: Is the country under assessment known for active connections with terrorism or proliferation? Has it implemented enough Anti-Financial Crime (AFC) measures? This can be compared to researching about your hiking trail – if it’s notorious for dangerous wildlife or treacherous terrains, extra precautions would be necessary.
 
 3. Counterparty Supervision: Whether your counterparty is supervised or regulated for AML and CTF purposes in their home country plays a vital role too - much like ensuring your fellow hikers have adequate experience and equipment.
 
